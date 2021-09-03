@@ -5,6 +5,6 @@
 - 📫  reach me@ sanketrathod2425@gmail.com
 
 <!---
-Sanket-Rathod-25/Sanke-Rathod-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sanket-Rathod-25/Sanket-Rathod-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
